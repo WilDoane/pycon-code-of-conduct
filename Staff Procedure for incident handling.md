@@ -5,28 +5,38 @@ Be sure to have a good understanding of our Code of Conduct policy, which can be
 
 Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct/harassment-incidents/)
 
-Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
+The initial response is very important and will set the tone for PyCon. Depending on the severity/details of the incident, please follow these guidelines:
 
- - Identifying information (name/badge number) of the participant doing the harassing
- - The behavior that was in violation
- - The approximate time of the behavior (if different than the time the report was made)
- - The circumstances surrounding the incident
- - Other people involved in the incident
-
-Prepare an initial response to the incident. This initial response is very important and will set the tone for PyCon. Depending on the severity/details of the incident, please follow these guidelines:
-
- - If there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police.
- - Offer the victim a private place to sit
- - Ask "is there a friend or trusted person who you would like to be with you?" (if so, arrange for someone to fetch this person)
- - Ask them "how can I help?"
- - Provide them with your list of emergency contacts if they need help later
+SAFETY FIRST
+ - Ensure your own safety. You are responsible for reporting incidents. You must be safe, in order to get help. 
+ - Ensure the safety of the reporting attendee.
+   - Keep a third person with you and the reporting attendee at all times– ideally another staff member.
+   - Ask "is there a friend or trusted person who you would like to be with you?" (if so, arrange for someone to fetch this person)
+   - Offer the victim a private place to sit.
+   - Ask "how can I help?"
+ - Ensure the safety of other attendees and staff
+   - Summon event security staff and/or police immediately, if there's any indication of a continuing threat.
  - If everyone is presently physically safe, involve law enforcement or security only at a victim's request.
+ - Provide the reporting attendee with a list of emergency contacts, in case they need help later
+
+INVESTIGATE SECOND
+ - Try to get as much of the incident in written form by the reporting attendee. 
+ - If you cannot, transcribe their report yourself as it was told to you. 
+ - The important information to gather include the following:
+   - Identifying information (name/badge number) of the participant doing the harassing
+   - The behavior that was in violation
+   - The approximate time of the behavior (if different than the time the report was made)
+   - The location where the incident took place
+   - The circumstances surrounding the incident (direct conversion? overheard? a speaker?)
+   - Names or identification of other people involved in the incident
 
 There are also some guidelines as to what not to do as an initial response:
 
  - Do not overtly invite them to withdraw the complaint or mention that withdrawal is OK. This suggests that you want them to do so, and is therefore coercive. "If you're OK with it [pursuing the complaint]" suggests that you are by default pursuing it and is not coercive.
  - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility
  - Do not offer them input into penalties. This is the staff's responsibility
+ - Do not leave the reporting attendee alone.
+ - Do not allow yourself or anyone else to be alone with the reporting attendee.
 
 Once something is reported to a staff member, immediately meet with the conference chair and/or event coordinator. The main objectives of this meeting is to find out the following:
 
